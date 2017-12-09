@@ -25,7 +25,7 @@ SECRET_KEY = 'q1(95pzb*h_o*m7h+9ag%t90xi!f)16j54%-g%2kpppy6v6b7g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['Klaudia.pythonanywhere.com']
+ALLOWED_HOSTS = ['Klaudia.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
